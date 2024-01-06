@@ -7,5 +7,16 @@ p {
 h1 {
     background-color: green;
     font-weight: 100;
-    align-items:center;
+    text-align:center;
+}
+
+li {
+    text-align:right;
+}
+
+.key-ingredient {
+    color: blue;
+    background-color: orange;
+    font-size:40px;
+    font-weight:800;
 }
